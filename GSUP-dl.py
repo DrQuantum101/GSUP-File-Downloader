@@ -68,7 +68,7 @@ def is_english(text):
 signal.signal(signal.SIGTERM, cleanup)
 signal.signal(signal.SIGINT, cleanup)
 
-print(f"\nParsing File Table For GSUploader User : {username}\n")
+print(f"\nParsing File Table For [REDACTED] User : {username}\n")
 
 # Initialize the data arrays
 links = []
@@ -146,7 +146,7 @@ while True:
 pure_filenames = [filename.split(".")[0] for filename in filenames]
 
 
-print(f"\nParsing Complete. Downloading Files From GSUploader by {username}\n")
+print(f"\nParsing Complete. Downloading Files From [REDACTED] by {username}\n")
 
 
 # Print the extracted data
