@@ -1,9 +1,5 @@
 # GSUP-File-Downloader
-A personal file downloader for the website [REDACTED]. I might unredact the website name someday for public use.
-
-# File Downloader Script
-
-This Python script automates the process of downloading files from a specific user page on a website. It utilizes Selenium for web automation, BeautifulSoup for parsing HTML, and various translation libraries to handle non-English titles.
+A personal file downloader for the website [REDACTED]. I might unredact the website name someday for public use. This Python script automates the process of downloading files from a specific user page on a website. It utilizes Selenium for web automation, BeautifulSoup for parsing HTML, and various translation libraries to handle non-English titles.
 
 ## Features
 
