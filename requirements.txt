@@ -1,0 +1,9 @@
+
+### requirements.txt
+
+```plaintext
+beautifulsoup4==4.11.1
+requests==2.27.1
+selenium==4.1.0
+deep-translator==1.6.0
+requestium==2.1.2
