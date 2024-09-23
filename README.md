@@ -18,10 +18,7 @@ A personal file downloader for the website [REDACTED]. I might unredact the webs
 
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+1. Clone this repository
 
 2. Next, install the required packages with:
    ```bash
@@ -33,11 +30,11 @@ To run the script, execute it from the command line with the username as an argu
    ```bash
    python script.py <username>
    ```
-Replace <username> with the actual username you want to download files for.
+Replace <username> with the username you want to download files for.
 
 ## Important Notes
 
-Make sure to replace the [REDACTED] placeholder in the URL with the actual website domain. (IYKYK)
+Make sure to replace the [REDACTED] placeholder in the code URL with the actual website domain. (IYKYK)
 
 ## License
 
