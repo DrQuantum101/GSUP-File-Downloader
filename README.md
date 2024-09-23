@@ -28,7 +28,7 @@ A personal file downloader for the website [REDACTED]. I might unredact the webs
 
 To run the script, execute it from the command line with the username as an argument:
    ```bash
-   python script.py <username>
+   python GSUP-dl.py <username>
    ```
 Replace <username> with the username you want to download files for.
 
